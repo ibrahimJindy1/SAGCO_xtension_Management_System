@@ -1,16 +1,14 @@
-# abdulaziz_flutter
+# SAGCO_xtension_Management_System_Flutter Front End
 
-A new Flutter project.
+this is a projec for SAGCO Company with asp.net back end restful API
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![1](https://user-images.githubusercontent.com/75649062/161619910-4231e3ce-26ba-4902-ab8c-231d1f05e40b.JPG)
 
-A few resources to get you started if this is your first Flutter project:
+![2](https://user-images.githubusercontent.com/75649062/161619944-d79e55cc-157c-4370-b356-d2bc48ebb1e1.JPG)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![3](https://user-images.githubusercontent.com/75649062/161619965-c64a0310-fc21-47e3-9f26-4b7ee44dfd73.JPG)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![5](https://user-images.githubusercontent.com/75649062/161619976-d469d853-cba8-4e16-b9c7-54116c795ee7.JPG)
+
+![6](https://user-images.githubusercontent.com/75649062/161619994-401d7562-058b-449e-a513-f17635a6482c.JPG)
